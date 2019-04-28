@@ -1,0 +1,19 @@
+{
+  "name": "spider-web",
+  "version": "1.0.0",
+  "description": "a spider web effected by gravity using Math and JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spider",
+    "web",
+    "javascript",
+    "gravity",
+    "canvas",
+    "html5"
+  ],
+  "author": "Adel Jojo",
+  "license": "ISC"
+}
